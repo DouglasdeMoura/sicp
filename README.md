@@ -1,5 +1,9 @@
 # SICP exercises
 
+Installing MIT Scheme on Ubuntu:
+
+`sudo apt install mit-scheme`
+
 Executing Scheme programs:
 
 `scheme --quiet < HelloWorld.scm`

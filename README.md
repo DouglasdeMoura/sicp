@@ -6,4 +6,4 @@ Installing MIT Scheme on Ubuntu:
 
 Executing Scheme programs:
 
-`scheme --quiet < HelloWorld.scm`
+`mit-scheme --quiet < HelloWorld.scm`

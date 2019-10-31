@@ -22,6 +22,8 @@
 ; The predicate expression is evaluated first, and the result determines whether
 ; to evaluate the consequent or the alternative expression.)
 
+; -----| ANSWER |-----
+
 ; Definitions:
 ; APPLICATIVE-ORDER: evaluate arguments and apply (internal reductions are applied first)
 ; NORMAL-ORDER: fully expand arguments and then reduce

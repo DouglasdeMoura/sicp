@@ -2,6 +2,8 @@
 ; as arguments and returns the sum of the squares of the
 ; two larger numbers.
 
+; -----| ANSWER |-----
+
 (define (square x)
   (* x x))
 
